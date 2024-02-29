@@ -1,0 +1,37 @@
+===============2024-02-29 10:46:46================
+{
+    "收藏数量": "1k+",
+    "评论数量": "10+",
+    "分享数量": "100+",
+    "点赞数量": "1k+",
+    "作品标签": [
+        "笔记灵感",
+        "应届生找工作",
+        "内行才知道",
+        "寻人内推我在行",
+        "实习",
+        "暑期实习",
+        "找工作",
+        "实习怎么找"
+    ],
+    "作品ID": "629379cf0000000001029677",
+    "作品标题": "实习怎么找㊙️让我看看是谁还不知道❗",
+    "作品描述": "23届实习招聘已经开始了一段时间，结果上周还是有姐妹问我！在哪里找实习！！！我急了！！\n栗子@栗子学姐做运营 梳理了实习生/应届生校招需要知道的几个求职顺利buff道具！求求大家好好看！不准再找不到投递入口了[哭惹R]\n#笔记灵感[话题]# #应届生找工作[话题]# #内行才知道[话题]# #寻人内推我在行[话题]# #实习[话题]# #暑期实习[话题]# #找工作[话题]##实习怎么找[话题]#\n@校园薯 @知识薯 @招聘薯",
+    "作品类型": "图文",
+    "IP归属地": null,
+    "发布时间": "2022-05-29 13:49:03",
+    "最后更新时间": "2022-06-15 14:37:27",
+    "作者昵称": "栗嘻嘻",
+    "作者ID": "59d3608320e88f102221c85d",
+    "下载地址": [
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011areadd9ere8w",
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011areadclsxpmd",
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011areadb3y111c",
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011aread9djkcua",
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011aread8itgwkz",
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011aread77qvh3m",
+        "https://sns-img-bd.xhscdn.com/01025t016ghys7qro0t011aread6gjstma",
+        "https://sns-img-bd.xhscdn.com/01026f016ghys7qro0t011cg90x9tqtpqp",
+        "https://sns-img-bd.xhscdn.com/01026f016ghys7qro0t011cg90x7zbueow"
+    ]
+}
